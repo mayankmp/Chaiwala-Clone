@@ -40,9 +40,20 @@ You can play with these demo projects in your browser, without installing anythi
    - execute `npm init vite-pages library-monorepo-demo -- --template lib-monorepo` to initialize a library project with monorepo setup.
    - If you are using **npm 6.x**, the extra double-dash before `--template` should be deleted. For example, `npm init vite-pages app-demo --template app`.
 2. `npm install`
-3. `npm run dev` and play with the local dev environment.
-4. `npm run build`.
-5. `npm run ssr`. You can [disable javascript in your browser](https://developer.chrome.com/docs/devtools/javascript/disable/), to verify if it can still render.
+3. Install Dependencies and Icons:
+   - Sass install `npm install sass`,
+   - React icons  `npm install react-icons`,
+   - Framer motion `npm install framer-motion`
+4. `npm run dev` and play with the local dev environment.
+5. `npm run build`.
+6. `npm run ssr`. You can [disable javascript in your browser](https://developer.chrome.com/docs/devtools/javascript/disable/), to verify if it can still render.
+7. Publish to github:
+   - `npm install gh-pages --save-dev`
+   - `git init`
+   - `git add .`
+   - `git commit -m "add: initial files"`
+   - `git commit -m "add: deploy workflow"`
+   - 
 
 ### Read the documentation
 
