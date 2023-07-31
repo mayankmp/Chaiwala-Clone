@@ -1,5 +1,7 @@
 # ☕ Chaiwala Clone App by React 
 
+### Deploy Link: https://mayankmp.github.io/Chaiwala-Clone/
+
 <p>
   <a href="https://www.npmjs.com/package/vite-plugin-react-pages" target="_blank" rel="noopener"><img src="https://img.shields.io/npm/v/vite-plugin-react-pages.svg" alt="npm package" /></a>
 </p>
