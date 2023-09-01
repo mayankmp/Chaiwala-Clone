@@ -120,7 +120,7 @@ const Footer = () => {
           <a href="tel: +917611106886">+917611106886</a>
         </div>
 
-        <p>© COPYRIGHT 2022 MBA CHAIWALA. MADE BY MAYANK PATEL</p>
+        <p>© COPYRIGHT 2022 MBA CHAIWALA. MADE BY MAYANK PATEL & DIVYANK MISHRA</p>
       </footer>
       <div className="footer"></div>
     </>
